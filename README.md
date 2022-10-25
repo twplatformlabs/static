@@ -5,7 +5,7 @@
     <br />
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/dps_lab_title.png?sanitize=true" />
 	</p>
-  <h3>A collection of dps related static content</h5>
+  <h3>a collection of empc cdi related static content</h5>
 </div>
 <br />
 
