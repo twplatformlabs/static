@@ -9,5 +9,5 @@
 <br />
 
 
-<a href="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/LICENSE.MD"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+<a href="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 
