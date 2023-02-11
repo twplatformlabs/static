@@ -7,7 +7,4 @@
 
   <h3>a collection of empc cdi related static content</h3>
 <br />
-
-
-<a href="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-
+Copyright (C) ThoughtWorks, Inc.
