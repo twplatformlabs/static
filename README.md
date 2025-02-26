@@ -1,10 +1,10 @@
 <div align="center">
 	<p>
-		<img alt="Thoughtworks Logo" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/thoughtworks_flamingo_wave.png?sanitize=true" width=200 />
+		<img alt="Thoughtworks Logo" src="https://raw.githubusercontent.com/twplatformlabs/static/master/thoughtworks_flamingo_wave.png?sanitize=true" width=200 />
     <br />
-		<img alt="EMPC Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/EMPCPlatformStarterKitsImage.png?sanitize=true" width=350/>
+		<img alt="EMPC Title" src="https://raw.githubusercontent.com/twplatformlabs/static/master/EMPCPlatformStarterKitsImage.png?sanitize=true" width=350/>
 	</p>
 
-  <h3>a collection of empc cdi related static content</h3>
+  <h3>a collection of empc cdi and ee related static content</h3>
 <br />
-Copyright (C) ThoughtWorks, Inc.
+Copyright (C) 2018 ThoughtWorks, Inc.
